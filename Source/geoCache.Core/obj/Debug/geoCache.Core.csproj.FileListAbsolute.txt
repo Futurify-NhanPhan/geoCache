@@ -1,0 +1,5 @@
+F:\work\CloudSpatial\Sample code\geocache-80132\Branches\02\Assemblies\Debug\geoCache.Core.dll
+F:\work\CloudSpatial\Sample code\geocache-80132\Branches\02\Assemblies\Debug\geoCache.Core.pdb
+F:\work\CloudSpatial\Sample code\geocache-80132\Branches\02\Source\geoCache.Core\obj\Debug\geoCache.Core.csprojResolveAssemblyReference.cache
+F:\work\CloudSpatial\Sample code\geocache-80132\Branches\02\Source\geoCache.Core\obj\Debug\geoCache.Core.dll
+F:\work\CloudSpatial\Sample code\geocache-80132\Branches\02\Source\geoCache.Core\obj\Debug\geoCache.Core.pdb

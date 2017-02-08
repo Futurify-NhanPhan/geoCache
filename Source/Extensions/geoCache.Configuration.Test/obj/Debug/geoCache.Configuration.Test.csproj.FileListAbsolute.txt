@@ -1,0 +1,1 @@
+F:\work\CloudSpatial\Sample code\geocache-80132\Branches\02\Source\Extensions\geoCache.Configuration.Test\obj\Debug\geoCache.Configuration.Test.csprojResolveAssemblyReference.cache

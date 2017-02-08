@@ -1,0 +1,4 @@
+F:\work\CloudSpatial\Sample code\geocache-80132\Branches\02\Source\Assemblies\Debug\geoCache.Base.dll
+F:\work\CloudSpatial\Sample code\geocache-80132\Branches\02\Source\Assemblies\Debug\geoCache.Base.pdb
+F:\work\CloudSpatial\Sample code\geocache-80132\Branches\02\Source\Extensions\geoCache.Extensions.Base\obj\Debug\geoCache.Base.dll
+F:\work\CloudSpatial\Sample code\geocache-80132\Branches\02\Source\Extensions\geoCache.Extensions.Base\obj\Debug\geoCache.Base.pdb
